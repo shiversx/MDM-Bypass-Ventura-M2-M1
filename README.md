@@ -2,7 +2,7 @@
 
 # MDM-bypass:
 
-curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
+curl https://raw.githubusercontent.com/shiversx/MDM-Bypass-Ventura-M2-M1/main/MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
 
 # Prerequisites:
 
@@ -14,10 +14,10 @@ curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o M
 
 1. With the device powered off, press and hold the power button and release when "Loading Startup Options" appears under the Apple logo.
 2. Connect to WiFi and Activate the Mac.
-3. Open Safari and go back to this repo. (https://www.github.com/eudy97/mdm-bypass)
+3. Open Safari and go back to this repo. (https://github.com/shiversx/MDM-Bypass-Ventura-M2-M1)
 4. Copy this command:
 
-   curl https://raw.githubusercontent.com/eudy97/MDM-bypass/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
+   curl https://raw.githubusercontent.com/shiversx/MDM-Bypass-Ventura-M2-M1/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
 
 6. Quit Safari. (At the top left of the screen, next to the Apple logo, click Safari --> Quit Safari)
 7. Open the Terminal (Tools --> Terminal).
